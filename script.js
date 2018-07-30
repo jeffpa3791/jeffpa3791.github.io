@@ -184,6 +184,12 @@ d3.csv('top10.csv', function (data) {
       .attr('dy','.71em')
       .style('text-anchor','end')
       .text('Revenue')
+	  
+  legend = svg.append("g")
+    .attr("class","legend")
+    .attr("transform","translate(50,30)")
+    .style("font-size","12px")
+    .call(d3.legend)
 
   function HighlightGenre() {
     console.log("in HighlightGenre")
