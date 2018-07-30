@@ -185,20 +185,6 @@ d3.csv('top10.csv', function (data) {
       .style('text-anchor','end')
       .text('Revenue')
 
-   verticalLegend = d3.svg.legend()
-      .labelFormat("none")
-      .cellPadding(5)
-      .orientation("vertical")
-      .units("Things in a List")
-      .cellWidth(25)
-      .cellHeight(18)
-      .inputScale(sampleOrdinal)
-      .cellStepping(10);
-
-  d3.select("svg").append("g").attr("transform", "translate(50,140)").attr("class", "legend").call(verticalLegend);
-
-
-
   function HighlightGenre() {
     console.log("in HighlightGenre")
     svg.selectAll("circle")
