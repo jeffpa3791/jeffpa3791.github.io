@@ -1,0 +1,779 @@
+"release_date","revenue","title","collection_name","main_genre","release_year","main_genre_name","rank"
+"1995-10-30",373554033,"Toy Story","Toy Story Collection",3,"1995","Animation",1
+"1995-12-15",262797249,"Jumanji","",2,"1995","Adventure",10
+"1995-11-16",352194034,"GoldenEye","James Bond Collection",2,"1995","Adventure",4
+"1995-09-22",327311859,"Se7en","",5,"1995","Crime",7
+"1995-06-14",346079773,"Pocahontas","Pocahontas Collection",2,"1995","Adventure",5
+"1995-06-30",355237933,"Apollo 13","",7,"1995","Drama",3
+"1995-06-16",336529144,"Batman Forever","Batman Collection",1,"1995","Action",6
+"1995-05-26",287928194,"Casper","Casper Collection",9,"1995","Fantasy",8
+"1995-05-19",366101666,"Die Hard: With a Vengeance","Die Hard Collection",1,"1995","Action",2
+"1995-07-28",264218220,"Waterworld","",2,"1995","Adventure",9
+"1996-05-22",457696359,"Mission: Impossible","Mission",2,"1996","Adventure",3
+"1996-11-15",250200000,"Space Jam","",3,"1996","Animation",8
+"1996-06-06",335062621,"The Rock","",1,"1996","Action",4
+"1996-05-10",494471524,"Twister","",1,"1996","Action",2
+"1996-06-25",816969268,"Independence Day","Independence Day Collection",1,"1996","Action",1
+"1996-06-21",242295562,"Eraser","",1,"1996","Action",9
+"1996-11-08",309492681,"Ransom","",1,"1996","Action",6
+"1996-11-14",231976425,"The English Patient","",7,"1996","Drama",10
+"1996-11-17",320689294,"101 Dalmatians","101 Dalmatians (Live-Action) Collection",4,"1996","Comedy",5
+"1996-12-06",273552592,"Jerry Maguire","",4,"1996","Comedy",7
+"1976-11-03",33800000,"Carrie","Carrie Collection",12,"1976","Horror",10
+"1976-06-06",60922980,"The Omen","The Omen Collection",12,"1976","Horror",5
+"1976-11-21",117235147,"Rocky","Rocky Collection",7,"1976","Drama",2
+"1976-09-08",90614445,"King Kong","King Kong (1976 series)",2,"1976","Adventure",3
+"1976-12-20",46236000,"The Enforcer","Dirty Harry Collection",1,"1976","Action",7
+"1976-04-07",35323292,"The Bad News Bears","The Bad New Bears Collection",4,"1976","Comedy",8
+"1976-12-15",33833201,"The Pink Panther Strikes Again","The Pink Panther (Original) Collection",4,"1976","Comedy",9
+"1976-04-04",70600000,"All the President's Men","",7,"1976","Drama",4
+"1976-12-03",51079064,"Silver Streak","",4,"1976","Comedy",6
+"1976-12-16",1.61e+08,"A Star Is Born","",7,"1976","Drama",1
+"1992-11-25",504050219,"Aladdin","Aladdin Collection",3,"1992","Animation",1
+"1992-03-20",352927224,"Basic Instinct","Basic Instinct Collection",17,"1992","Thriller",4
+"1992-11-13",215862692,"Dracula","",15,"1992","Romance",9
+"1992-06-19",2.8e+08,"Batman Returns","Batman Collection",1,"1992","Action",6
+"1992-05-15",321731527,"Lethal Weapon 3","Lethal Weapon Collection",2,"1992","Adventure",5
+"1992-12-11",243240178,"A Few Good Men","",7,"1992","Drama",7
+"1992-11-19",358991681,"Home Alone 2: Lost in New York","Home Alone Collection",4,"1992","Comedy",3
+"1992-05-28",231605150,"Sister Act","Sister Act Collection",13,"1992","Music",8
+"1992-06-04",178051587,"Patriot Games","The Jack Ryan Collection",7,"1992","Drama",10
+"1992-11-25",411006740,"The Bodyguard","",17,"1992","Thriller",2
+"1994-12-16",247275374,"Dumb and Dumber","Dumb and Dumber Collection",4,"1994","Comedy",8
+"1994-11-11",223664608,"Interview with the Vampire","The Vampire Chronicles",12,"1994","Horror",9
+"1994-08-03",215887717,"Clear and Present Danger","The Jack Ryan Collection",1,"1994","Action",10
+"1994-05-26",341631208,"The Flintstones","The Flintstones (Live-Action) Collection",9,"1994","Fantasy",6
+"1994-07-06",677945399,"Forrest Gump","",4,"1994","Comedy",2
+"1994-03-09",254700832,"Four Weddings and a Funeral","",4,"1994","Comedy",7
+"1994-06-23",788241776,"The Lion King","The Lion King Collection",8,"1994","Family",1
+"1994-07-29",351583407,"The Mask","The Mask Collection",15,"1994","Romance",4
+"1994-06-09",350448145,"Speed","Speed Collection",1,"1994","Action",5
+"1994-07-14",378882411,"True Lies","",1,"1994","Action",3
+"1977-05-25",775398007,"Star Wars","Star Wars Collection",2,"1977","Adventure",1
+"1977-04-19",38251425,"Annie Hall","",4,"1977","Comedy",10
+"1977-06-22",71215869,"The Rescuers","The Rescuers Collection",9,"1977","Fantasy",7
+"1977-11-30",1.02e+08,"The Goodbye Girl","",4,"1977","Comedy",6
+"1977-11-16",303788635,"Close Encounters of the Third Kind","",16,"1977","Science Fiction",2
+"1977-07-07",185438673,"The Spy Who Loved Me","James Bond Collection",2,"1977","Adventure",4
+"1977-10-07",41687243,"Oh, God!","Oh, God! Collection",9,"1977","Fantasy",9
+"1977-05-26",126737428,"Smokey and the Bandit","Smokey and the Bandit Collection",1,"1977","Action",5
+"1977-12-16",237113184,"Saturday Night Fever","Saturday Night Fever Collection",7,"1977","Drama",3
+"1977-06-15",50750000,"A Bridge Too Far","",7,"1977","Drama",8
+"1993-05-28",255000211,"Cliffhanger","",1,"1993","Action",7
+"1993-06-30",270248367,"The Firm","",7,"1993","Drama",5
+"1993-08-06",368875760,"The Fugitive","The Fugitive / U.S. Marshals Collection",2,"1993","Adventure",3
+"1993-06-11",920100000,"Jurassic Park","Jurassic Park Collection",2,"1993","Adventure",1
+"1993-11-24",441286195,"Mrs. Doubtfire","",4,"1993","Comedy",2
+"1993-12-22",206678440,"Philadelphia","",7,"1993","Drama",9
+"1993-11-29",321365567,"Schindler's List","",7,"1993","Drama",4
+"1993-06-24",227799884,"Sleepless in Seattle","",4,"1993","Comedy",8
+"1993-04-07",266614059,"Indecent Proposal","",7,"1993","Drama",6
+"1993-12-16",195268056,"The Pelican Brief","",7,"1993","Drama",10
+"1982-04-03",792965326,"E.T. the Extra-Terrestrial","",16,"1982","Science Fiction",1
+"1982-11-30",77737889,"Gandhi","",7,"1982","Drama",10
+"1982-06-03",96800000,"Star Trek II: The Wrath of Khan","Star Trek",1,"1982","Action",7
+"1982-04-02",79114085,"Conan the Barbarian","Conan the Barbarian Collection",2,"1982","Adventure",8
+"1982-06-04",122200000,"Poltergeist","Poltergeist Collection",12,"1982","Horror",6
+"1982-10-22",125212904,"First Blood","Rambo Collection",1,"1982","Action",5
+"1982-05-28",2.7e+08,"Rocky III","Rocky Collection",7,"1982","Drama",2
+"1982-07-28",129795554,"An Officer and a Gentleman","",7,"1982","Drama",4
+"1982-12-16",177200000,"Tootsie","",4,"1982","Comedy",3
+"1982-12-07",78868508,"48 Hrs.","48 Hrs. Collection",17,"1982","Thriller",9
+"1990-11-09",476684675,"Home Alone","Home Alone Collection",4,"1990","Comedy",2
+"1990-07-12",5.05e+08,"Ghost","",9,"1990","Fantasy",1
+"1990-11-09",424208848,"Dances with Wolves","",2,"1990","Adventure",4
+"1990-03-23",4.63e+08,"Pretty Woman","",15,"1990","Romance",3
+"1990-07-02",240031094,"Die Hard 2","Die Hard Collection",1,"1990","Action",7
+"1990-05-25",244527583,"Back to the Future Part III","Back to the Future Collection",2,"1990","Adventure",6
+"1990-06-01",261317921,"Total Recall","",1,"1990","Action",5
+"1990-03-30",2.02e+08,"Teenage Mutant Ninja Turtles","Teenage Mutant Ninja Turtles (Original) Collection",16,"1990","Science Fiction",9
+"1990-12-21",201957688,"Kindergarten Cop","Kindergarten Cop Collection",4,"1990","Comedy",10
+"1990-07-26",221303188,"Presumed Innocent","",7,"1990","Drama",8
+"1991-07-01",5.2e+08,"Terminator 2: Judgment Day","The Terminator Collection",1,"1991","Action",1
+"1991-02-01",272742922,"The Silence of the Lambs","The Hannibal Lecter Anthology",5,"1991","Crime",5
+"1991-11-13",377350553,"Beauty and the Beast","Beauty and the Beast Collection",15,"1991","Romance",3
+"1991-06-14",390493908,"Robin Hood: Prince of Thieves","",2,"1991","Adventure",2
+"1991-11-15",182300000,"Cape Fear","",5,"1991","Crime",8
+"1991-11-22",191502426,"The Addams Family","Addams Family Collection",12,"1991","Horror",7
+"1991-12-20",205405498,"JFK","",7,"1991","Drama",6
+"1991-12-11",300854823,"Hook","",2,"1991","Adventure",4
+"1991-06-07",179033791,"City Slickers","City Slickers Collection",1,"1991","Action",10
+"1991-07-31",181096164,"Hot Shots!","Hot Shots! Collection",1,"1991","Action",9
+"1989-06-23",411348924,"Batman","Batman Collection",9,"1989","Fantasy",2
+"1989-06-02",235860116,"Dead Poets Society","",7,"1989","Drama",5
+"1989-05-24",474171806,"Indiana Jones and the Last Crusade","Indiana Jones Collection",2,"1989","Adventure",1
+"1989-07-07",227853986,"Lethal Weapon 2","Lethal Weapon Collection",1,"1989","Action",6
+"1989-11-20",3.32e+08,"Back to the Future Part II","Back to the Future Collection",2,"1989","Adventure",3
+"1989-06-22",222724172,"Honey, I Shrunk the Kids","Honey, I Shrunk the Kids Collection",2,"1989","Adventure",7
+"1989-11-17",222300000,"The Little Mermaid","The Little Mermaid Collection",3,"1989","Animation",8
+"1989-06-15",215394738,"Ghostbusters II","Ghostbusters Collection",4,"1989","Comedy",9
+"1989-12-20",161001698,"Born on the Fourth of July","",7,"1989","Drama",10
+"1989-10-12",2.96e+08,"Look Who's Talking","Look Who's Talking Collection"", 'poster_path'",4,"1989","Comedy",4
+"1937-12-20",184925486,"Snow White and the Seven Dwarfs","",9,"1937","Fantasy",1
+"1937-01-28",153936,"Pépé le Moko","",1,"1937","Action",2
+"1940-02-23",84300000,"Pinocchio","",3,"1940","Animation",1
+"1940-04-12",6e+06,"Rebecca","",7,"1940","Drama",5
+"1940-10-15",1.1e+07,"The Great Dictator","",4,"1940","Comedy",3
+"1940-11-13",83320000,"Fantasia","Fantasia Collection",3,"1940","Animation",2
+"1940-08-30",9172000,"Boom Town","",2,"1940","Adventure",4
+"1969-09-23",102308889,"Butch Cassidy and the Sundance Kid","",11,"1969","History",1
+"1969-05-25",44785053,"Midnight Cowboy","",7,"1969","Drama",3
+"1969-12-18",6e+06,"Topaz","",1,"1969","Action",9
+"1969-06-11",14250000,"True Grit","",20,"1969","Western",8
+"1969-12-12",81974493,"On Her Majesty's Secret Service","James Bond Collection",2,"1969","Adventure",2
+"1969-10-15",31678778,"Paint Your Wagon","",7,"1969","Drama",5
+"1969-01-01",2e+07,"Sweet Charity","",4,"1969","Comedy",7
+"1969-12-12",33208099,"Hello, Dolly!","",4,"1969","Comedy",4
+"1969-09-17",3e+07,"Bob & Carol & Ted & Alice","",4,"1969","Comedy",6
+"1969-04-30",1750000,"Hard Contract","",5,"1969","Crime",10
+"1970-12-23",55675257,"The Aristocats","",3,"1970","Animation",5
+"1970-01-25",89800000,"Patton","",7,"1970","Drama",3
+"1970-03-05",100489151,"Airport","Airport Collection",1,"1970","Action",2
+"1970-12-14",31559552,"Little Big Man","",2,"1970","Adventure",8
+"1970-01-26",29548291,"Tora! Tora! Tora!","",11,"1970","History",9
+"1970-12-16",136400000,"Love Story","",7,"1970","Drama",1
+"1970-06-24",24911670,"Catch-22","",19,"1970","War",10
+"1970-01-24",81600000,"M*A*S*H","",4,"1970","Comedy",4
+"1970-03-26",34505110,"Woodstock","",11,"1970","History",7
+"1970-07-17",4e+07,"Beyond the Valley of the Dolls","",4,"1970","Comedy",6
+"1955-08-26",536364,"Pather Panchali","The Apu Collection",7,"1955","Drama",7
+"1955-08-03",8750000,"To Catch a Thief","",5,"1955","Crime",2
+"1955-04-11",3e+06,"Marty","",7,"1955","Drama",6
+"1955-06-16",93600000,"Lady and the Tramp","Lady and the Tramp Collection",8,"1955","Family",1
+"1955-10-03",7e+06,"The Trouble with Harry","",4,"1955","Comedy",3
+"1955-04-13",460226,"Rififi","",7,"1955","Drama",8
+"1955-12-25",3100000,"All That Heaven Allows","",7,"1955","Drama",5
+"1955-01-07",3788000,"Bad Day at Black Rock","",5,"1955","Crime",4
+"1955-02-15",250000,"The Fast and the Furious","",1,"1955","Action",9
+"1959-05-01",16000,"The World of Apu","The Apu Collection",7,"1959","Drama",10
+"1959-07-07",13275000,"North by Northwest","",14,"1959","Mystery",4
+"1959-03-18",2.5e+07,"Some Like It Hot","",4,"1959","Comedy",3
+"1959-12-26",146900000,"Ben-Hur","",1,"1959","Action",1
+"1959-01-28",5.1e+07,"Sleeping Beauty","",9,"1959","Fantasy",2
+"1959-03-17",5800000,"Rio Bravo","",20,"1959","Western",9
+"1959-12-05",6800000,"Operation Petticoat","",1,"1959","Action",8
+"1959-12-14",1e+07,"Journey to the Center of the Earth","",2,"1959","Adventure",7
+"1959-06-18",12800000,"The Nun's Story","",7,"1959","Drama",5
+"1959-12-25",12200000,"Solomon and Sheba","",7,"1959","Drama",6
+"1968-04-10",68700000,"2001: A Space Odyssey","The Space Odyssey Series",16,"1968","Science Fiction",1
+"1968-10-01",3e+07,"Night of the Living Dead","Living Dead Collection",12,"1968","Horror",9
+"1968-09-26",37402877,"Oliver!","",7,"1968","Drama",6
+"1968-06-12",33395426,"Rosemary's Baby","Rosemary's Baby Collection"", 'poster_path'",12,"1968","Horror",7.5
+"1968-02-07",33395426,"Planet of the Apes","Planet of the Apes Original Collection",16,"1968","Science Fiction",7.5
+"1968-02-07",44527234,"The Odd Couple","The Odd Couple Collection",4,"1968","Comedy",3
+"1968-04-02",38901218,"Romeo and Juliet","",7,"1968","Drama",5
+"1968-09-19",52223306,"Funny Girl","Fanny Brice Collection",7,"1968","Drama",2
+"1968-12-04",2.1e+07,"Where Eagles Dare","",2,"1968","Adventure",10
+"1968-10-17",42300873,"Bullitt","",1,"1968","Action",4
+"1988-07-15",140767956,"Die Hard","Die Hard Collection",1,"1988","Action",9
+"1988-12-11",412800000,"Rain Man","",7,"1988","Drama",1
+"1988-05-24",189015611,"Rambo III","Rambo Collection",1,"1988","Action",6
+"1988-05-19",239606210,"Crocodile Dundee II","Crocodile Dundee Collection",2,"1988","Adventure",4
+"1988-06-03",151668774,"Big","",9,"1988","Fantasy",8
+"1988-06-21",329803958,"Who Framed Roger Rabbit","",9,"1988","Fantasy",2
+"1988-10-21",138241022,"The Bear","",2,"1988","Adventure",10
+"1988-07-29",171504781,"Cocktail","",7,"1988","Drama",7
+"1988-06-28",288752301,"Coming to America","",4,"1988","Comedy",3
+"1988-12-09",216614388,"Twins","",4,"1988","Comedy",5
+"1964-01-29",9440272,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","",7,"1964","Drama",8
+"1964-10-21",72070731,"My Fair Lady","",7,"1964","Drama",3
+"1964-08-27",102272727,"Mary Poppins","",4,"1964","Comedy",2
+"1964-07-09",7e+06,"Marnie","",5,"1964","Crime",10
+"1964-07-06",12299668,"A Hard Day's Night","",4,"1964","Comedy",6
+"1964-09-17",124881062,"Goldfinger","James Bond Collection",2,"1964","Adventure",1
+"1964-09-12",14500000,"A Fistful of Dollars","The Man With No Name Collection",20,"1964","Western",4
+"1964-01-22",8e+06,"Zulu","Anglo-Zulu War Collection",1,"1964","Action",9
+"1964-06-23",12368234,"A Shot in the Dark","The Pink Panther (Original) Collection",4,"1964","Comedy",5
+"1964-08-06",1.2e+07,"The Night of the Iguana","",7,"1964","Drama",7
+"1972-03-14",245066411,"The Godfather","The Godfather Collection",7,"1972","Drama",1
+"1972-12-01",84563118,"The Poseidon Adventure","The Poseidon Adventure Collection",1,"1972","Action",3
+"1972-05-25",12600000,"Frenzy","",5,"1972","Crime",9
+"1972-07-30",46122355,"Deliverance","",7,"1972","Drama",5
+"1972-06-08",1e+07,"Shaft's Big Score!","Shaft Collection",1,"1972","Action",10
+"1972-08-06",18016290,"Everything You Always Wanted to Know About Sex *But Were Afraid to Ask","",4,"1972","Comedy",8
+"1972-06-01",8.5e+07,"The Way of the Dragon","",1,"1972","Action",2
+"1972-08-01",2.2e+07,"The Legend of Boggy Creek","",14,"1972","Mystery",7
+"1972-10-14",36144000,"Last Tango in Paris","",7,"1972","Drama",6
+"1972-12-13",58831997,"The Getaway","",1,"1972","Action",4
+"1997-03-21",302710615,"Liar Liar","",4,"1997","Comedy",6
+"1997-05-07",263920180,"The Fifth Element","",2,"1997","Adventure",8
+"1997-06-26",252712101,"Hercules","",3,"1997","Animation",10
+"1997-06-19",299288605,"My Best Friend's Wedding","",4,"1997","Comedy",7
+"1997-07-02",589390539,"Men in Black","Men In Black Collection",1,"1997","Action",2
+"1997-07-25",315156409,"Air Force One","",1,"1997","Action",4
+"1997-08-13",257850122,"The Full Monty","",4,"1997","Comedy",9
+"1997-11-18",1845034188,"Titanic","",7,"1997","Drama",1
+"1997-12-11",333011068,"Tomorrow Never Dies","James Bond Collection",2,"1997","Adventure",3
+"1997-12-19",314178011,"As Good as It Gets","",4,"1997","Comedy",5
+"1952-04-10",7200000,"Singin' in the Rain","",4,"1952","Comedy",3
+"1952-03-27",8e+06,"High Noon","",20,"1952","Western",2
+"1952-01-10",3.6e+07,"The Greatest Show on Earth","",1,"1952","Action",1
+"1952-09-02",2e+06,"Monkey Business","",4,"1952","Comedy",5
+"1952-05-08",6746000,"Scaramouche","",1,"1952","Action",4
+"1952-10-09",55240,"Ikiru","",7,"1952","Drama",6
+"1952-05-09",10188,"Forbidden Games","",7,"1952","Drama",7
+"1951-08-08",4500000,"An American in Paris","",7,"1951","Drama",7
+"1951-12-03",10750000,"The African Queen","",2,"1951","Adventure",4
+"1951-07-03",5.72e+08,"Alice in Wonderland","",3,"1951","Animation",1
+"1951-09-18",8e+06,"A Streetcar Named Desire","",7,"1951","Drama",5
+"1951-06-18",7e+06,"Strangers on a Train","",5,"1951","Crime",6
+"1951-06-29",1300000,"Ace in the Hole","",7,"1951","Drama",9
+"1951-07-13",1.1e+07,"Show Boat","",13,"1951","Music",3
+"1951-11-08",3e+07,"Quo Vadis","",7,"1951","Drama",2
+"1951-10-26",3550000,"The Blue Veil","",7,"1951","Drama",8
+"1961-10-05",9500000,"Breakfast at Tiffany's","",4,"1961","Comedy",6
+"1961-10-18",43656822,"West Side Story","",5,"1961","Crime",2
+"1961-01-25",215880014,"One Hundred and One Dalmatians","101 Dalmatians (Animated) Collection",2,"1961","Adventure",1
+"1961-09-25",7600000,"The Hustler","The Hustler Collection",7,"1961","Drama",8
+"1961-04-27",28900000,"The Guns of Navarone","Navarone Collection",1,"1961","Action",3
+"1961-07-12",7e+06,"Voyage to the Bottom of the Sea","",2,"1961","Adventure",9
+"1961-01-01",8200000,"The Misfits","",7,"1961","Drama",7
+"1961-12-18",5e+06,"Pocketful of Miracles","",4,"1961","Comedy",10
+"1961-10-11",14483352,"King of Kings","",7,"1961","Drama",4
+"1961-12-01",1e+07,"Judgment at Nuremberg","",7,"1961","Drama",5
+"1958-05-09",2.8e+07,"Vertigo","",14,"1958","Mystery",2
+"1958-02-17",17570324,"Cat on a Hot Tin Roof","",7,"1958","Drama",3
+"1958-04-23",2247465,"Touch of Evil","",7,"1958","Drama",6
+"1958-07-16",3e+06,"The Fly","The Fly (1958 series)",7,"1958","Drama",5
+"1958-03-18",36800000,"South Pacific","",13,"1958","Music",1
+"1958-10-01",5e+06,"Macabre","",12,"1958","Horror",4
+"1958-01-29",263404,"Elevator to the Gallows","",7,"1958","Drama",8
+"1958-05-19",480000,"Attack of the 50 Foot Woman","",12,"1958","Horror",7
+"1954-08-01",36764313,"Rear Window","",7,"1954","Drama",1
+"1954-09-28",1e+07,"Sabrina","",4,"1954","Comedy",5
+"1954-12-23",28200000,"20,000 Leagues Under the Sea","",2,"1954","Adventure",2
+"1954-05-29",3e+06,"Dial M for Murder","",5,"1954","Crime",9
+"1954-06-22",9600000,"On the Waterfront","",5,"1954","Crime",6
+"1954-07-22",5e+06,"Seven Brides for Seven Brothers","",4,"1954","Comedy",7
+"1954-06-24",21750000,"The Caine Mutiny","",7,"1954","Drama",3
+"1954-08-25",1.5e+07,"The Egyptian","",11,"1954","History",4
+"1954-12-20",3200000,"The Silver Chalice","",7,"1954","Drama",8
+"1954-04-01",1400000,"Riding Shotgun","",20,"1954","Western",10
+"1934-02-22",4500000,"It Happened One Night","",4,"1934","Comedy",1
+"1934-05-25",1423000,"The Thin Man","The Thin Man Collection",4,"1934","Comedy",2
+"1934-11-23",1120000,"The Painted Veil","",15,"1934","Romance",3
+"1960-06-15",2.5e+07,"The Apartment","",4,"1960","Comedy",3
+"1960-06-16",3.2e+07,"Psycho","Psycho Collection",7,"1960","Drama",2
+"1960-10-06",6e+07,"Spartacus","",1,"1960","Action",1
+"1960-10-23",7900000,"The Alamo","",1,"1960","Action",9
+"1960-06-19",10400000,"Elmer Gantry","",7,"1960","Drama",6
+"1960-03-27",21750000,"Exodus","",1,"1960","Action",4
+"1960-05-24",8e+06,"Never on Sunday","",7,"1960","Drama",8
+"1960-02-05",19516000,"La Dolce Vita","",4,"1960","Comedy",5
+"1960-07-20",1e+07,"The Bellboy","",4,"1960","Comedy",7
+"1960-12-18",7100000,"Cinderfella","",4,"1960","Comedy",10
+"1963-12-05",13474588,"Charade","",4,"1963","Comedy",6
+"1963-12-25",22182353,"The Sword in the Stone","",3,"1963","Animation",5
+"1963-06-20",11744471,"The Great Escape","",2,"1963","Adventure",7
+"1963-03-28",11403529,"The Birds","",12,"1963","Horror",8
+"1963-10-06",37600000,"Tom Jones","",2,"1963","Adventure",4
+"1963-10-11",78898765,"From Russia with Love","James Bond Collection",1,"1963","Action",1
+"1963-06-12",7.1e+07,"Cleopatra","",7,"1963","Drama",2
+"1963-11-07",6e+07,"It's a Mad, Mad, Mad, Mad World","",1,"1963","Action",3
+"1963-12-19",10878107,"The Pink Panther","The Pink Panther (Original) Collection",4,"1963","Comedy",9
+"1942-11-26",10462500,"Casablanca","",7,"1942","Drama",3
+"1942-06-04",13500000,"Mrs. Miniver","",7,"1942","Drama",2
+"1942-08-14",267447150,"Bambi","Bambi Collection",3,"1942","Animation",1
+"1942-12-05",4e+06,"Cat People","Cat People Collection",17,"1942","Thriller",5
+"1942-10-21",4371000,"For Me and My Gal","",7,"1942","Drama",4
+"1942-07-31",1040000,"Invisible Agent","The Invisible Man (Universal Series)",2,"1942","Adventure",6
+"1941-11-18",1e+06,"The Maltese Falcon","",14,"1941","Mystery",6
+"1941-04-30",23217674,"Citizen Kane","",14,"1941","Mystery",1
+"1941-10-22",1600000,"Dumbo","",3,"1941","Animation",5
+"1941-10-28",6e+06,"How Green Was My Valley","",7,"1941","Drama",3
+"1941-11-14",4500000,"Suspicion","",14,"1941","Mystery",4
+"1941-07-02",16361885,"Sergeant York","",1,"1941","Action",2
+"1953-09-02",1.2e+07,"Roman Holiday","",4,"1953","Comedy",6
+"1953-08-28",30500000,"From Here to Eternity","",19,"1953","War",3
+"1953-02-05",87404651,"Peter Pan","Peter Pan Collection",3,"1953","Animation",1
+"1953-08-13",2e+06,"The War of the Worlds","",12,"1953","Horror",10
+"1953-01-26",8500000,"Niagara","",5,"1953","Crime",7
+"1953-04-11",4905000,"Titanic","",7,"1953","Drama",9
+"1953-04-23",2e+07,"Shane","",7,"1953","Drama",5
+"1953-09-16",3.6e+07,"The Robe","Demetrius Filmreihe",7,"1953","Drama",2
+"1953-04-10",23800000,"House of Wax","",5,"1953","Crime",4
+"1953-06-13",5e+06,"The Beast from 20,000 Fathoms","",2,"1953","Adventure",8
+"1939-08-15",33754967,"The Wizard of Oz","",2,"1939","Adventure",2
+"1939-12-15",400176459,"Gone with the Wind","",7,"1939","Drama",1
+"1939-01-01",2270000,"The Women","",4,"1939","Comedy",5
+"1939-10-06",2279000,"Ninotchka","",4,"1939","Comedy",4
+"1939-10-19",9600000,"Mr. Smith Goes to Washington","",4,"1939","Comedy",3
+"1939-03-02",1103757,"Stagecoach","",2,"1939","Adventure",6
+"1950-08-10",5e+06,"Sunset Boulevard","",7,"1950","Drama",3
+"1950-11-09",63463,"All About Eve","",7,"1950","Drama",6
+"1950-03-04",263591415,"Cinderella","Cinderella Collection",8,"1950","Family",1
+"1950-12-26",96568,"Rashomon","",5,"1950","Crime",5
+"1950-05-17",8e+06,"Annie Get Your Gun","",1,"1950","Action",2
+"1950-03-31",2039000,"Wabash Avenue","",13,"1950","Music",4
+"1946-08-15",24464742,"Notorious","",17,"1946","Thriller",1
+"1946-12-20",9644124,"It's a Wonderful Life","",7,"1946","Drama",4
+"1946-12-25",23650000,"The Best Years of Our Lives","",7,"1946","Drama",2
+"1946-12-31",20400000,"Duel in the Sun","",20,"1946","Western",3
+"1945-12-28",7e+06,"Spellbound","",7,"1945","Drama",4
+"1945-11-25",1.1e+07,"The Lost Weekend","",7,"1945","Drama",2
+"1945-09-24",5638000,"Mildred Pierce","",5,"1945","Crime",5
+"1945-12-28",2948386,"Scarlet Street","",7,"1945","Drama",6
+"1945-12-27",21300000,"The Bells of St. Mary's","",7,"1945","Drama",1
+"1945-06-01",9132000,"The Valley of Decision","",7,"1945","Drama",3
+"1938-05-13",3981000,"The Adventures of Robin Hood","",1,"1938","Action",3
+"1938-08-23",7433101,"You Can't Take It With You","",4,"1938","Comedy",1
+"1938-05-24",4e+06,"Alexander's Ragtime Band","",7,"1938","Drama",2
+"1944-10-11",2e+06,"Laura","",7,"1944","Drama",6.5
+"1944-05-15",16300000,"Going My Way","",7,"1944","Drama",1
+"1944-04-24",2500000,"Double Indemnity","",7,"1944","Drama",5
+"1944-10-11",3650000,"To Have and Have Not","",19,"1944","War",4
+"1944-03-01",5363000,"A Guy Named Joe","",7,"1944","Drama",3
+"1944-08-01",2e+06,"Wilson","",15,"1944","Romance",6.5
+"1944-07-01",6892000,"Bathing Beauty","",4,"1944","Comedy",2
+"1935-09-06",3202000,"Top Hat","",4,"1935","Comedy",2
+"1935-11-08",4460000,"Mutiny on the Bounty","",2,"1935","Adventure",1
+"1935-08-30",1439000,"Anna Karenina","",7,"1935","Drama",3
+"1935-05-09",950000,"The Informer","",7,"1935","Drama",4
+"1935-04-19",831,"Star of Midnight","",15,"1935","Romance",5
+"1956-10-10",3.5e+07,"Giant","",1,"1956","Action",3
+"1956-10-17",4.2e+07,"Around the World in Eighty Days","",2,"1956","Adventure",2
+"1956-06-01",10250000,"The Man Who Knew Too Much","",2,"1956","Adventure",8
+"1956-06-29",21300000,"The King and I","",7,"1956","Drama",4
+"1956-06-27",10400000,"Moby Dick","",2,"1956","Adventure",7
+"1956-11-15",9e+06,"Love Me Tender","",7,"1956","Drama",9
+"1956-08-21",12500000,"War and Peace","",7,"1956","Drama",6
+"1956-10-05",122700000,"The Ten Commandments","",7,"1956","Drama",1
+"1956-07-03",3360000,"Somebody Up There Likes Me","",7,"1956","Drama",10
+"1956-05-30",14400000,"Trapeze","",7,"1956","Drama",5
+"1975-05-21",41833347,"The Return of the Pink Panther","The Pink Panther (Original) Collection",14,"1975","Mystery",5
+"1975-11-18",108981275,"One Flew Over the Cuckoo's Nest","",7,"1975","Drama",3
+"1975-06-18",470654000,"Jaws","The Jaws Collection",12,"1975","Horror",1
+"1975-08-14",112892319,"The Rocky Horror Picture Show","Rocky Horror Collection",4,"1975","Comedy",2
+"1975-09-24",27476252,"Three Days of the Condor","",1,"1975","Action",9
+"1975-03-19",34251525,"Tommy","",7,"1975","Drama",7
+"1975-08-11",46665856,"Dog Day Afternoon","",5,"1975","Crime",4
+"1975-06-25",3e+07,"Rollerball","",2,"1975","Adventure",8
+"1975-03-13",20642922,"The Great Waldo Pepper","",1,"1975","Action",10
+"1975-08-25",39598448,"Cry, Onion!","",20,"1975","Western",6
+"1971-10-07",17900000,"Bedknobs and Broomsticks","",2,"1971","Adventure",9
+"1971-12-18",26589000,"A Clockwork Orange","",16,"1971","Science Fiction",8
+"1971-10-09",41158757,"The French Connection","French Connection Collection",1,"1971","Action",4
+"1971-10-03",29133000,"The Last Picture Show","The Last Picture Show Collection",7,"1971","Drama",6
+"1971-10-21",28623900,"Carnal Knowledge","",7,"1971","Drama",7
+"1971-12-13",116019547,"Diamonds Are Forever","James Bond Collection",2,"1971","Adventure",1
+"1971-12-21",35976000,"Dirty Harry","Dirty Harry Collection",1,"1971","Action",5
+"1971-11-03",83304330,"Fiddler on the Roof","",7,"1971","Drama",2
+"1971-01-15",72266306,"Vanishing Point","",1,"1971","Action",3
+"1971-04-23",15200000,"Sweet Sweetback's Baadasssss Song","",1,"1971","Action",10
+"1981-05-22",50244700,"Escape from New York","Escape From ... Collection",16,"1981","Science Fiction",10
+"1981-06-12",389925971,"Raiders of the Lost Ark","Indiana Jones Collection",2,"1981","Adventure",1
+"1981-09-16",8.5e+07,"Das Boot","",1,"1981","Action",6
+"1981-06-25",85300000,"Stripes","",1,"1981","Action",5
+"1981-05-15",58972904,"Chariots of Fire","",7,"1981","Drama",8
+"1981-06-23",195312802,"For Your Eyes Only","James Bond Collection",2,"1981","Adventure",2
+"1981-12-15",55260558,"Quest for Fire","",2,"1981","Adventure",9
+"1981-07-17",95461682,"Arthur","Arthur Collection",4,"1981","Comedy",4
+"1981-11-13",125728258,"Porky's","Porky's Collection"", 'poster_path'",4,"1981","Comedy",3
+"1981-06-19",72179579,"The Cannonball Run","Cannonball Run Collection",4,"1981","Comedy",7
+"1965-03-02",286214286,"The Sound of Music","",7,"1965","Drama",1
+"1965-07-01",25333333,"The Great Race","",2,"1965","Adventure",5
+"1965-12-22",111858363,"Doctor Zhivago","",7,"1965","Drama",3
+"1965-12-16",141195658,"Thunderball","James Bond Collection",2,"1965","Adventure",2
+"1965-12-18",1.5e+07,"For a Few Dollars More","The Man With No Name Collection",20,"1965","Western",9
+"1965-06-24",20666667,"Cat Ballou","",4,"1965","Comedy",6
+"1965-02-15",15473333,"The Greatest Story Ever Told","",7,"1965","Drama",7
+"1965-12-10",6792000,"A Patch of Blue","",7,"1965","Drama",10
+"1965-06-03",29950000,"Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes","",1,"1965","Action",4
+"1965-10-15",15260000,"The Cincinnati Kid","",7,"1965","Drama",8
+"1973-12-25",159616327,"The Sting","The Sting Collection",4,"1973","Comedy",3
+"1973-12-26",441306145,"The Exorcist","The Exorcist Collection",7,"1973","Drama",1
+"1973-07-05",161777836,"Live and Let Die","James Bond Collection",2,"1973","Adventure",2
+"1973-11-08",32056467,"Robin Hood","",3,"1973","Animation",9
+"1973-10-17",4.5e+07,"The Way We Were","",7,"1973","Drama",7
+"1973-12-13",53267000,"Papillon","",5,"1973","Crime",6
+"1973-08-01",1.4e+08,"American Graffiti","American Graffiti Collection",4,"1973","Comedy",4
+"1973-12-23",39768000,"Magnum Force","Dirty Harry Collection",1,"1973","Action",8
+"1973-12-05",29800000,"Serpico","",5,"1973","Crime",10
+"1973-08-17",9e+07,"Enter the Dragon","",1,"1973","Action",5
+"1979-08-15",89460381,"Apocalypse Now","",7,"1979","Drama",7
+"1979-05-25",104931801,"Alien","Alien Collection",12,"1979","Horror",5
+"1979-07-27",86432000,"The Amityville Horror","The Amityville Horror Collection",7,"1979","Drama",8
+"1979-12-06",1.39e+08,"Star Trek: The Motion Picture","Star Trek",16,"1979","Science Fiction",3
+"1979-12-18",106260000,"Kramer vs. Kramer","",7,"1979","Drama",4
+"1979-06-15",200182160,"Rocky II","Rocky Collection",7,"1979","Drama",2
+"1979-05-31",76657000,"The Muppet Movie","The Muppet Collection",2,"1979","Adventure",9
+"1979-06-26",210308099,"Moonraker","James Bond Collection",1,"1979","Action",1
+"1979-04-12",1e+08,"Mad Max","Mad Max Collection",2,"1979","Adventure",6
+"1979-10-04",74865517,"10","",4,"1979","Comedy",10
+"1967-07-18",50700000,"Bonnie and Clyde","",5,"1967","Crime",5
+"1967-12-21",104945305,"The Graduate","",7,"1967","Drama",3
+"1967-08-02",27379978,"In the Heat of the Night","",5,"1967","Crime",10
+"1967-10-17",205843612,"The Jungle Book","The Jungle Book Collection",8,"1967","Family",1
+"1967-06-15",45300000,"The Dirty Dozen","The Dirty Dozen Collection",1,"1967","Action",7
+"1967-12-11",56666667,"Guess Who's Coming to Dinner","",4,"1967","Comedy",4
+"1967-04-13",41744718,"Casino Royale","James Bond Collection",2,"1967","Adventure",8
+"1967-12-27",5e+07,"Valley of the Dolls","",13,"1967","Music",6
+"1967-06-12",111584787,"You Only Live Twice","James Bond Collection",1,"1967","Action",2
+"1967-08-18",3.6e+07,"The Born Losers","Billy Jack Collection",1,"1967","Action",9
+"1987-08-21",213954274,"Dirty Dancing","Dirty Dancing Collection",7,"1987","Drama",3
+"1987-03-06",120207127,"Lethal Weapon","Lethal Weapon Collection",2,"1987","Adventure",6
+"1987-06-02",76270454,"The Untouchables","",5,"1987","Crime",10
+"1987-12-18",80640528,"Moonstruck","",4,"1987","Comedy",9
+"1987-09-11",320145693,"Fatal Attraction","",15,"1987","Romance",1
+"1987-12-23",123922370,"Good Morning, Vietnam","",4,"1987","Comedy",5
+"1987-06-11",98235548,"Predator","Predator Collection",16,"1987","Science Fiction",8
+"1987-06-29",191185897,"The Living Daylights","James Bond Collection",1,"1987","Action",4
+"1987-05-18",299965036,"Beverly Hills Cop II","Beverly Hills Cop Collection",1,"1987","Action",2
+"1987-04-10",110996879,"The Secret of My Success","",4,"1987","Comedy",7
+"1986-12-18",138530565,"Platoon","",7,"1986","Drama",4
+"1986-05-16",356830601,"Top Gun","",1,"1986","Action",1
+"1986-07-18",183316455,"Aliens","Alien Collection",12,"1986","Horror",3
+"1986-11-25",1.33e+08,"Star Trek IV: The Voyage Home","Star Trek",16,"1986","Science Fiction",5
+"1986-11-21",84542002,"An American Tail","Fievel Collection",7,"1986","Drama",8
+"1986-06-13",91258000,"Back to School","",4,"1986","Comedy",7
+"1986-06-18",115103979,"The Karate Kid, Part II","The Karate Kid Collection",2,"1986","Adventure",6
+"1986-09-24",77200000,"The Name of the Rose","",7,"1986","Drama",10
+"1986-09-26",328203506,"Crocodile Dundee","Crocodile Dundee Collection",2,"1986","Adventure",2
+"1986-12-12",79817939,"The Golden Child","",1,"1986","Action",9
+"1980-05-17",538400000,"The Empire Strikes Back","Star Wars Collection",2,"1980","Adventure",1
+"1980-06-17",115229890,"The Blues Brothers","The Blues Brothers Collection",13,"1980","Music",3
+"1980-05-09",59754601,"Friday the 13th","Friday the 13th Collection",12,"1980","Horror",10
+"1980-09-10",6e+07,"The Gods Must Be Crazy","The Gods Must Be Crazy Collection",1,"1980","Action",9
+"1980-12-04",190458706,"Superman II","Superman Collection",1,"1980","Action",2
+"1980-07-02",83453539,"Airplane!","Airplane Collection",4,"1980","Comedy",5
+"1980-12-17",70687344,"Any Which Way You Can","Philo & Clyde Collection",1,"1980","Action",6
+"1980-03-07",67182787,"Coal Miner's Daughter","",7,"1980","Drama",7
+"1980-08-15",66132626,"Smokey and the Bandit II","Smokey and the Bandit Collection",1,"1980","Action",8
+"1980-12-12",101300000,"Stir Crazy","",4,"1980","Comedy",4
+"1978-12-08",5e+07,"The Deer Hunter","",7,"1978","Drama",8
+"1978-07-07",181813770,"Grease","Grease Collection",15,"1978","Romance",3
+"1978-06-16",187884007,"Jaws 2","The Jaws Collection",12,"1978","Horror",2
+"1978-10-25",7e+07,"Halloween","Halloween Collection",12,"1978","Horror",6
+"1978-12-13",300218018,"Superman","Superman Collection",1,"1978","Action",1
+"1978-07-27",1.41e+08,"Animal House","",4,"1978","Comedy",4
+"1978-05-10",4.5e+07,"The End","",4,"1978","Comedy",10
+"1978-09-02",5.5e+07,"Dawn of the Dead","Living Dead Collection",12,"1978","Horror",7
+"1978-07-28",7.8e+07,"Hooper","",1,"1978","Action",5
+"1978-07-19",49579269,"Revenge of the Pink Panther","The Pink Panther (Original) Collection",1,"1978","Action",9
+"1966-12-23",6e+06,"The Good, the Bad and the Ugly","The Man With No Name Collection",20,"1966","Western",9.5
+"1966-12-12",28350000,"A Man for All Seasons","",7,"1966","Drama",3
+"1966-06-21",33736689,"Who's Afraid of Virginia Woolf?","",7,"1966","Drama",2
+"1966-07-13",1.3e+07,"Torn Curtain","",14,"1966","Mystery",6
+"1966-12-17",6e+06,"El Dorado","",20,"1966","Western",9.5
+"1966-08-24",1.2e+07,"Fantastic Voyage","",2,"1966","Adventure",7.5
+"1966-12-20",2e+07,"The Sand Pebbles","",1,"1966","Action",4
+"1966-02-18",16318124,"The Silencers","The Matt Helm Collection",1,"1966","Action",5
+"1966-02-23",1.2e+07,"Harper","Lew Harper Collection",1,"1966","Action",7.5
+"1966-10-10",34562222,"Hawaii","",7,"1966","Drama",1
+"1957-03-25",1e+06,"12 Angry Men","",7,"1957","Drama",6
+"1957-10-02",27200000,"The Bridge on the River Kwai","",7,"1957","Drama",1
+"1957-10-03",752045,"Nights of Cabiria","",7,"1957","Drama",7
+"1957-12-17",9e+06,"Witness for the Prosecution","",7,"1957","Drama",3
+"1957-12-17",2200000,"Legend of the Lost","",2,"1957","Adventure",4
+"1957-05-30",11750000,"Gunfight at the O.K. Corral","",20,"1957","Western",2
+"1957-06-19",2e+06,"I Was a Teenage Werewolf","",7,"1957","Drama",5
+"1962-12-10",69995385,"Lawrence of Arabia","",2,"1962","Adventure",2
+"1962-12-25",13129846,"To Kill a Mockingbird","",5,"1962","Crime",7
+"1962-10-24",96105910,"The Manchurian Candidate","",14,"1962","Mystery",1
+"1962-06-13",9250000,"Lolita","",7,"1962","Drama",8
+"1962-10-04",59600000,"Dr. No","James Bond Collection",2,"1962","Adventure",3
+"1962-09-25",50100000,"The Longest Day","",1,"1962","Action",4
+"1962-04-22",8e+06,"The Man Who Shot Liberty Valance","",20,"1962","Western",9.5
+"1962-11-01",5e+07,"How the West Was Won","",11,"1962","History",5
+"1962-06-19",8e+06,"The Music Man","",4,"1962","Comedy",9.5
+"1962-11-08",13680000,"Mutiny on the Bounty","",2,"1962","Adventure",6
+"1983-05-23",572700000,"Return of the Jedi","Star Wars Collection",2,"1983","Adventure",1
+"1983-03-16",87987055,"Jaws 3-D","The Jaws Collection",17,"1983","Thriller",6
+"1983-06-17",75850624,"Superman III","Superman Collection",4,"1983","Comedy",8
+"1983-04-14",92921203,"Flashdance","",7,"1983","Drama",4
+"1983-06-07",90400000,"Trading Places","",4,"1983","Comedy",5
+"1983-12-08",65884703,"Scarface","",1,"1983","Action",10
+"1983-12-07",67642693,"Sudden Impact","Dirty Harry Collection",1,"1983","Action",9
+"1983-06-03",79567667,"WarGames","WarGames Collection",17,"1983","Thriller",7
+"1983-06-05",187500000,"Octopussy","James Bond Collection",2,"1983","Adventure",2
+"1983-10-07",1.6e+08,"Never Say Never Again","James Bond Collection",2,"1983","Adventure",3
+"1949-08-31",596349,"The Third Man","",17,"1949","Thriller",5
+"1949-12-21",3225000,"Twelve O'Clock High","",19,"1949","War",4
+"1949-10-22",5400000,"She Wore a Yellow Ribbon","",20,"1949","Western",3
+"1949-12-14",7800000,"Sands of Iwo Jima","",1,"1949","Action",2
+"1949-12-21",11500000,"Samson and Delilah","",7,"1949","Drama",1
+"1985-07-03",381109762,"Back to the Future","Back to the Future Collection",2,"1985","Adventure",1
+"1985-02-08",68706993,"Witness","",5,"1985","Crime",9
+"1985-12-20",128499205,"Out of Africa","",7,"1985","Drama",6
+"1985-06-06",61503218,"The Goonies","",2,"1985","Adventure",10
+"1985-05-24",152427960,"A View to a Kill","James Bond Collection",2,"1985","Adventure",4
+"1985-05-21",300400432,"Rambo: First Blood Part II","Rambo Collection",1,"1985","Action",3
+"1985-12-04",96773200,"The Jewel of the Nile","Romancing the Stone Collection",1,"1985","Action",7
+"1985-06-21",85313124,"Cocoon","Cocoon Collection",4,"1985","Comedy",8
+"1985-11-21",300473716,"Rocky IV","Rocky Collection",7,"1985","Drama",2
+"1985-12-18",146292009,"The Color Purple","",7,"1985","Drama",5
+"1974-12-20",47542841,"The Godfather: Part II","The Godfather Collection",7,"1974","Drama",6
+"1974-12-15",86273333,"Young Frankenstein","",4,"1974","Comedy",4
+"1974-10-01",30859000,"The Texas Chain Saw Massacre","Texas Chainsaw Massacre Collection",12,"1974","Horror",10
+"1974-10-18",4.7e+07,"Airport 1975","Airport Collection",1,"1974","Action",7
+"1974-12-14",1.16e+08,"The Towering Inferno","",1,"1974","Action",2
+"1974-11-15",79666653,"Earthquake","",1,"1974","Action",5
+"1974-12-01",97572000,"The Man with the Golden Gun","James Bond Collection",2,"1974","Adventure",3
+"1974-02-07",119500000,"Blazing Saddles","",20,"1974","Western",1
+"1974-08-21",43008075,"The Longest Yard","",5,"1974","Crime",8
+"1974-03-29",36782781,"Watch Out, We're Mad","",1,"1974","Action",9
+"1984-05-31",8.7e+07,"Star Trek III: The Search for Spock","Star Trek",16,"1984","Science Fiction",8
+"1984-06-07",153083102,"Gremlins","The Gremlins Collection",9,"1984","Fantasy",4
+"1984-05-23",3.33e+08,"Indiana Jones and the Temple of Doom","Indiana Jones Collection",2,"1984","Adventure",1
+"1984-03-22",146198896,"Police Academy","Police Academy Collection",4,"1984","Comedy",5
+"1984-03-30",86572238,"Romancing the Stone","Romancing the Stone Collection",1,"1984","Action",9
+"1984-06-22",90815558,"The Karate Kid","The Karate Kid Collection",7,"1984","Drama",7
+"1984-06-07",295212467,"Ghostbusters","Ghostbusters Collection",4,"1984","Comedy",3
+"1984-02-17",80035402,"Footloose","",7,"1984","Drama",10
+"1984-11-29",316360478,"Beverly Hills Cop","Beverly Hills Cop Collection",1,"1984","Action",2
+"1984-06-29",1e+08,"Conan the Destroyer","Conan the Barbarian Collection",2,"1984","Adventure",6
+"1948-01-24",4307000,"The Treasure of the Sierra Madre","",1,"1948","Action",2
+"1948-08-23",2200000,"Rope","",5,"1948","Crime",6
+"1948-11-24",361712,"Bicycle Thieves","",7,"1948","Drama",8
+"1948-08-26",9012000,"Red River","",20,"1948","Western",1
+"1948-12-01",2841000,"3 Godfathers","",1,"1948","Action",5
+"1948-03-26",3e+06,"Fort Apache","",20,"1948","Western",3
+"1948-06-11",2956000,"The Pirate","",13,"1948","Music",4
+"1948-04-06",834332,"Miranda","",4,"1948","Comedy",7
+"1998-06-04",264118201,"The Truman Show","",4,"1998","Comedy",10
+"1998-05-20",379014294,"Godzilla","",16,"1998","Science Fiction",3
+"1998-06-18",304320254,"Mulan","Mulan Collection",3,"1998","Animation",6
+"1998-06-22",294456605,"Doctor Dolittle","Dr. Dolittle Collection",4,"1998","Comedy",7
+"1998-07-01",553799566,"Armageddon","",1,"1998","Action",1
+"1998-07-10",285444603,"Lethal Weapon 4","Lethal Weapon Collection",1,"1998","Action",9
+"1998-07-15",369884651,"There's Something About Mary","",15,"1998","Romance",4
+"1998-07-24",481840909,"Saving Private Ryan","",7,"1998","Drama",2
+"1998-11-25",363258859,"A Bug's Life","",2,"1998","Adventure",5
+"1998-12-11",289317794,"Shakespeare in Love","",15,"1998","Romance",8
+"1929-02-08",4358000,"The Broadway Melody","",7,"1929","Drama",1
+"1932-05-25",2594000,"Grand Hotel","",7,"1932","Drama",1
+"1932-04-09",6e+05,"Scarface","",1,"1932","Action",2
+"1933-02-08",7630000,"Cavalcade","",7,"1933","Drama",2
+"1933-04-07",1e+07,"King Kong","King Kong (1933 series)",1,"1933","Action",1
+"1933-02-02",2281000,"42nd Street","",13,"1933","Music",5
+"1933-10-06",2850000,"I'm No Angel","",4,"1933","Comedy",3
+"1933-12-26",2610000,"Queen Christina","",7,"1933","Drama",4
+"1933-02-09",2200000,"She Done Him Wrong","",4,"1933","Comedy",6
+"1947-11-11",7800000,"Gentleman's Agreement","",7,"1947","Drama",1
+"1947-10-03",152961,"Quai des Orfèvres","",5,"1947","Crime",2
+"1927-01-10",650422,"Metropolis","",7,"1927","Drama",2
+"1927-10-31",1027757,"My Best Girl","",7,"1927","Drama",1
+"1927-09-23",121,"Sunrise: A Song of Two Humans","",7,"1927","Drama",3
+"1999-03-30",463517383,"The Matrix","The Matrix Collection",1,"1999","Action",4
+"1999-04-16",415885488,"The Mummy","The Mummy Collection",2,"1999","Adventure",6
+"1999-05-19",924317558,"Star Wars: Episode I - The Phantom Menace","Star Wars Collection",2,"1999","Adventure",1
+"1999-05-13",363889678,"Notting Hill","",15,"1999","Romance",7
+"1999-06-08",310940086,"Austin Powers: The Spy Who Shagged Me","Austin Powers Collection",2,"1999","Adventure",10
+"1999-06-18",4.48e+08,"Tarzan","Tarzan (Animation) Collection",2,"1999","Adventure",5
+"1999-08-06",672806292,"The Sixth Sense","",14,"1999","Mystery",2
+"1999-09-15",356296601,"American Beauty","",7,"1999","Drama",9
+"1999-11-08",361832400,"The World Is Not Enough","James Bond Collection",2,"1999","Adventure",8
+"1999-10-30",497366869,"Toy Story 2","Toy Story Collection",3,"1999","Animation",3
+"1931-02-12",1012189,"Dracula","Dracula (Universal Series)",12,"1931","Horror",3
+"1931-11-21",1.2e+07,"Frankenstein","Frankenstein (Universal Series)",7,"1931","Drama",1
+"1931-01-30",19181,"City Lights","",4,"1931","Comedy",4
+"1931-12-26",2227000,"Mata Hari","",7,"1931","Drama",2
+"1926-05-14",966878,"Sparrows","",7,"1926","Drama",1
+"1926-12-25",658000,"Flesh and the Devil","",7,"1926","Drama",2
+"2000-05-01",457640427,"Gladiator","",1,"2000","Action",2
+"2000-05-19",354248063,"Dinosaur","",3,"2000","Animation",5
+"2000-05-24",546388105,"Mission: Impossible II","Mission",2,"2000","Adventure",1
+"2000-03-15",325756637,"The Perfect Storm","",7,"2000","Drama",8
+"2000-07-07",278019771,"Scary Movie","Scary Movie Collection",4,"2000","Comedy",10
+"2000-07-13",296339527,"X-Men","X-Men Collection",2,"2000","Adventure",9
+"2000-10-06",330444045,"Meet the Parents","Meet the Parents Collection",4,"2000","Comedy",7
+"2000-11-17",345141403,"How the Grinch Stole Christmas","",8,"2000","Family",6
+"2000-12-15",374111707,"What Women Want","",4,"2000","Comedy",4
+"2000-12-22",429632142,"Cast Away","",2,"2000","Adventure",3
+"1921-01-21",2500000,"The Kid","",4,"1921","Comedy",1
+"1936-02-05",8500000,"Modern Times","",7,"1936","Drama",1
+"1936-08-28",1276000,"Mary of Scotland","",7,"1936","Drama",6
+"1936-08-27",2600000,"Swing Time","",4,"1936","Comedy",4
+"1936-06-26",5273000,"San Francisco","",13,"1936","Music",2
+"1936-10-20",2736000,"The Charge of the Light Brigade","",1,"1936","Action",3
+"1936-08-28",2019000,"The Gorgeous Hussy","",7,"1936","Drama",5
+"1925-06-25",2500000,"The Gold Rush","",2,"1925","Adventure",3
+"1925-12-24",45100,"Battleship Potemkin","",7,"1925","Drama",5
+"1925-12-30",9e+06,"Ben-Hur: A Tale of the Christ","",2,"1925","Adventure",2
+"1925-11-05",2.2e+07,"The Big Parade","",7,"1925","Drama",1
+"1925-09-16",704000,"The Unholy Three","",5,"1925","Crime",4
+"2001-02-08",351692268,"Hannibal","The Hannibal Lecter Anthology",5,"2001","Crime",10
+"2001-04-28",433013274,"The Mummy Returns","The Mummy Collection",2,"2001","Adventure",7
+"2001-05-16",484409218,"Shrek","Shrek Collection",2,"2001","Adventure",4
+"2001-05-21",449220945,"Pearl Harbor","",11,"2001","History",6
+"2001-07-18",368780809,"Jurassic Park III","Jurassic Park Collection",2,"2001","Adventure",8
+"2001-07-25",362211740,"Planet of the Apes","",17,"2001","Thriller",9
+"2001-11-01",562816256,"Monsters, Inc.","Monsters, Inc. Collection",3,"2001","Animation",3
+"2001-11-16",976475550,"Harry Potter and the Philosopher's Stone","Harry Potter Collection",2,"2001","Adventure",1
+"2001-12-07",450717150,"Ocean's Eleven","Ocean's Collection"", 'poster_path'",17,"2001","Thriller",5
+"2001-12-18",871368364,"The Lord of the Rings: The Fellowship of the Ring","The Lord of the Rings Collection",2,"2001","Adventure",2
+"2013-04-18",1215439994,"Iron Man 3","Iron Man Collection",1,"2013","Action",2
+"2013-05-06",788679850,"Fast & Furious 6","The Fast and the Furious Collection",1,"2013","Action",6
+"2013-06-12",662845518,"Man of Steel","Man of Steel Collection",1,"2013","Action",9
+"2013-06-20",743559607,"Monsters University","Monsters, Inc. Collection",3,"2013","Animation",7
+"2013-06-25",970761885,"Despicable Me 2","Despicable Me Collection",3,"2013","Animation",3
+"2013-09-27",716392705,"Gravity","",16,"2013","Science Fiction",8
+"2013-10-29",644571402,"Thor: The Dark World","Thor Collection",1,"2013","Action",10
+"2013-11-15",847423452,"The Hunger Games: Catching Fire","The Hunger Games Collection",2,"2013","Adventure",5
+"2013-12-11",958400000,"The Hobbit: The Desolation of Smaug","The Hobbit Collection",2,"2013","Adventure",4
+"2013-11-27",1274219009,"Frozen","Frozen Collection",3,"2013","Animation",1
+"2002-03-10",383257136,"Ice Age","Ice Age Collection",3,"2002","Animation",8
+"2002-02-22",368744044,"My Big Fat Greek Wedding","My Big Fat Greek Wedding Collection",4,"2002","Comedy",9
+"2002-05-01",821708551,"Spider-Man","Spider-Man Collection",9,"2002","Fantasy",3
+"2002-05-15",649398328,"Star Wars: Episode II - Attack of the Clones","Star Wars Collection",2,"2002","Adventure",4
+"2002-06-20",358372926,"Minority Report","",1,"2002","Action",10
+"2002-07-03",441818803,"Men in Black II","Men In Black Collection",1,"2002","Action",5
+"2002-08-02",408247917,"Signs","",7,"2002","Drama",7
+"2002-11-13",876688482,"Harry Potter and the Chamber of Secrets","Harry Potter Collection",2,"2002","Adventure",2
+"2002-11-17",431971116,"Die Another Day","James Bond Collection",2,"2002","Adventure",6
+"2002-12-18",926287400,"The Lord of the Rings: The Two Towers","The Lord of the Rings Collection",2,"2002","Adventure",1
+"2003-04-24",407711549,"X2","X-Men Collection",2,"2003","Adventure",9
+"2003-05-15",738599701,"The Matrix Reloaded","The Matrix Collection",2,"2003","Adventure",3
+"2003-05-23",484572835,"Bruce Almighty","Almighty Collection",9,"2003","Fantasy",5
+"2003-05-30",940335536,"Finding Nemo","Finding Nemo Collection",3,"2003","Animation",2
+"2003-07-02",4.35e+08,"Terminator 3: Rise of the Machines","The Terminator Collection",1,"2003","Action",7
+"2003-07-09",655011224,"Pirates of the Caribbean: The Curse of the Black Pearl","Pirates of the Caribbean Collection",2,"2003","Adventure",4
+"2003-07-18",273339556,"Bad Boys II","Bad Boys Collection",2,"2003","Adventure",10
+"2003-11-05",424988211,"The Matrix Revolutions","The Matrix Collection",2,"2003","Adventure",8
+"2003-12-05",456758981,"The Last Samurai","",7,"2003","Drama",6
+"2003-12-01",1118888979,"The Lord of the Rings: The Return of the King","The Lord of the Rings Collection",2,"2003","Adventure",1
+"1915-02-08",1.1e+07,"The Birth of a Nation","",7,"1915","Drama",1
+"1915-12-13",137365,"The Cheat","",7,"1915","Drama",2
+"2004-02-25",611899420,"The Passion of the Christ","",7,"2004","Drama",5
+"2004-05-13",497409852,"Troy","",2,"2004","Adventure",8
+"2004-05-19",919838758,"Shrek 2","Shrek Collection",2,"2004","Adventure",1
+"2004-05-26",544272402,"The Day After Tomorrow","",1,"2004","Action",6
+"2004-05-31",789804554,"Harry Potter and the Prisoner of Azkaban","Harry Potter Collection",2,"2004","Adventure",2
+"2004-06-25",783766341,"Spider-Man 2","Spider-Man Collection",1,"2004","Action",3
+"2004-09-20",367275019,"Shark Tale","",3,"2004","Animation",9
+"2004-11-05",631442092,"The Incredibles","The Incredibles Collection",1,"2004","Action",4
+"2004-12-09",362744280,"Ocean's Twelve","Ocean's Collection"", 'poster_path'",17,"2004","Thriller",10
+"2004-12-22",516642939,"Meet the Fockers","Meet the Parents Collection",4,"2004","Comedy",7
+"1922-01-11",400200,"Foolish Wives","",7,"1922","Drama",1
+"1924-03-18",1213880,"The Thief of Bagdad","",1,"1924","Action",1
+"1923-04-01",623,"Safety Last!","",4,"1923","Comedy",1
+"1930-10-28",7940,"L'Âge d'Or","",15,"1930","Romance",2
+"1930-11-15",8e+06,"Hell's Angels","",1,"1930","Action",1
+"2005-07-13",474968763,"Charlie and the Chocolate Factory","",2,"2005","Adventure",8
+"2005-02-10",368100420,"Hitch","",4,"2005","Comedy",10
+"2005-05-17",8.5e+08,"Star Wars: Episode III - Revenge of the Sith","Star Wars Collection",16,"2005","Science Fiction",2
+"2005-05-25",532680671,"Madagascar","Madagascar Collection",8,"2005","Family",6
+"2005-06-07",478207520,"Mr. & Mrs. Smith","",1,"2005","Action",7
+"2005-06-10",374218673,"Batman Begins","The Dark Knight Collection",1,"2005","Action",9
+"2005-06-28",591739379,"War of the Worlds","",2,"2005","Adventure",4
+"2005-11-05",895921036,"Harry Potter and the Goblet of Fire","Harry Potter Collection",2,"2005","Adventure",1
+"2005-12-07",748806957,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","The Chronicles of Narnia Collection",2,"2005","Adventure",3
+"2005-12-14",5.5e+08,"King Kong","",2,"2005","Adventure",5
+"2006-03-23",660940780,"Ice Age: The Meltdown","Ice Age Collection",3,"2006","Animation",3
+"2006-05-03",397850012,"Mission: Impossible III","Mission",2,"2006","Adventure",9
+"2006-05-17",767820459,"The Da Vinci Code","Robert Langdon Collection",17,"2006","Thriller",2
+"2006-05-24",459359555,"X-Men: The Last Stand","X-Men Collection",2,"2006","Adventure",7
+"2006-06-08",461983149,"Cars","Cars Collection",3,"2006","Animation",6
+"2006-06-20",1065659812,"Pirates of the Caribbean: Dead Man's Chest","Pirates of the Caribbean Collection",2,"2006","Adventure",1
+"2006-06-28",391081192,"Superman Returns","Superman Collection",2,"2006","Adventure",10
+"2006-10-20",574480841,"Night at the Museum","Night at the Museum Collection",1,"2006","Action",5
+"2006-11-14",599045960,"Casino Royale","James Bond Collection",2,"2006","Adventure",4
+"2006-12-09",422610419,"300","300 Collection",1,"2006","Action",8
+"2011-04-03",484635760,"Rio","Rio Collection",3,"2011","Animation",10
+"2011-04-20",626137675,"Fast Five","The Fast and the Furious Collection",1,"2011","Action",7
+"2011-05-14",1045713802,"Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean Collection",2,"2011","Adventure",3
+"2011-05-25",665692281,"Kung Fu Panda 2","Kung Fu Panda Collection",3,"2011","Animation",6
+"2011-06-28",1123746996,"Transformers: Dark of the Moon","Transformers Collection",1,"2011","Action",2
+"2011-06-11",559852396,"Cars 2","Cars Collection",3,"2011","Animation",9
+"2011-07-07",1.342e+09,"Harry Potter and the Deathly Hallows: Part 2","Harry Potter Collection",8,"2011","Family",1
+"2011-07-29",563749323,"The Smurfs","The Smurfs (Theatrical) Collection",3,"2011","Animation",8
+"2011-03-15",712171856,"The Twilight Saga: Breaking Dawn - Part 1","The Twilight Collection",2,"2011","Adventure",4
+"2011-12-07",694713380,"Mission: Impossible - Ghost Protocol","Mission",1,"2011","Action",5
+"1943-04-09",1606624,"Cabin in the Sky","",9,"1943","Fantasy",1
+"1943-05-03",1200000,"Five Graves to Cairo","",17,"1943","Thriller",2
+"2007-06-22",623722818,"Ratatouille","",3,"2007","Animation",6
+"2007-05-01",890871626,"Spider-Man 3","Spider-Man Collection",9,"2007","Fantasy",3
+"2007-05-17",798958165,"Shrek the Third","Shrek Collection",9,"2007","Fantasy",4
+"2007-05-19",9.61e+08,"Pirates of the Caribbean: At World's End","Pirates of the Caribbean Collection",2,"2007","Adventure",1
+"2007-06-27",709709780,"Transformers","Transformers Collection",2,"2007","Adventure",5
+"2007-06-28",938212738,"Harry Potter and the Order of the Phoenix","Harry Potter Collection",2,"2007","Adventure",2
+"2007-07-25",527068851,"The Simpsons Movie","",3,"2007","Animation",8
+"2007-08-03",442824138,"The Bourne Ultimatum","The Bourne Collection",1,"2007","Action",10
+"2007-12-14",585349010,"I Am Legend","",7,"2007","Drama",7
+"2007-12-13",457363168,"National Treasure: Book of Secrets","National Treasure Collection",1,"2007","Action",9
+"2008-07-16",1004558444,"The Dark Knight","The Dark Knight Collection",7,"2008","Drama",1
+"2008-04-30",585174222,"Iron Man","Iron Man Collection",1,"2008","Action",8
+"2008-05-15",419651413,"The Chronicles of Narnia: Prince Caspian","The Chronicles of Narnia Collection",2,"2008","Adventure",10
+"2008-05-21",786636033,"Indiana Jones and the Kingdom of the Crystal Skull","Indiana Jones Collection",2,"2008","Adventure",2
+"2008-06-04",631744560,"Kung Fu Panda","Kung Fu Panda Collection",2,"2008","Adventure",3
+"2008-06-22",521311860,"WALL·E","",3,"2008","Animation",9
+"2008-07-01",624029371,"Hancock","",9,"2008","Fantasy",4
+"2008-07-03",609841637,"Mamma Mia!","Mamma Mia! Collection",4,"2008","Comedy",5
+"2008-10-30",603900354,"Madagascar: Escape 2 Africa","Madagascar Collection",8,"2008","Family",6
+"2008-10-30",586090727,"Quantum of Solace","James Bond Collection",2,"2008","Adventure",7
+"1928-11-24",921000,"West of Zanzibar","",7,"1928","Drama",2
+"1928-08-04",551,"The Mysterious Lady","",2,"1928","Adventure",4
+"1928-04-07",596000,"Across to Singapore","",2,"1928","Adventure",3
+"1928-07-18",1200000,"Lights of New York","",5,"1928","Crime",1
+"2009-05-13",735099082,"Up","",3,"2009","Animation",6
+"2009-06-05",459270619,"The Hangover","The Hangover Collection",4,"2009","Comedy",9
+"2009-06-19",836297228,"Transformers: Revenge of the Fallen","Transformers Collection",16,"2009","Science Fiction",4
+"2009-06-29",886686817,"Ice Age: Dawn of the Dinosaurs","Ice Age Collection",3,"2009","Animation",3
+"2009-07-07",933959197,"Harry Potter and the Half-Blood Prince","Harry Potter Collection",2,"2009","Adventure",2
+"2009-10-10",769653595,"2012","",1,"2009","Action",5
+"2009-03-15",709827462,"The Twilight Saga: New Moon","The Twilight Collection",2,"2009","Adventure",7
+"2009-12-10",2787965087,"Avatar","Avatar Collection",1,"2009","Action",1
+"2009-12-23",524028679,"Sherlock Holmes","Sherlock Holmes Collection",1,"2009","Action",8
+"2009-12-21",443140005,"Alvin and the Chipmunks: The Squeakquel","Alvin and the Chipmunks Collection",4,"2009","Comedy",10
+"1916-12-24",8e+06,"20,000 Leagues Under the Sea","",2,"1916","Adventure",1
+"2010-03-03",1025491110,"Alice in Wonderland","Alice in Wonderland Collection",8,"2010","Family",2
+"2010-03-05",494878759,"How to Train Your Dragon","How to Train Your Dragon Collection",9,"2010","Fantasy",10
+"2010-04-28",623933331,"Iron Man 2","Iron Man Collection",2,"2010","Adventure",7
+"2010-06-16",1066969703,"Toy Story 3","Toy Story Collection",3,"2010","Animation",1
+"2010-05-16",752600867,"Shrek Forever After","Shrek Collection",4,"2010","Comedy",5
+"2010-06-23",698491347,"The Twilight Saga: Eclipse","The Twilight Collection",2,"2010","Adventure",6
+"2010-07-08",543513985,"Despicable Me","Despicable Me Collection",3,"2010","Animation",9
+"2010-07-14",825532764,"Inception","",1,"2010","Action",4
+"2010-10-17",954305868,"Harry Potter and the Deathly Hallows: Part 1","Harry Potter Collection",2,"2010","Adventure",3
+"2010-11-24",591794936,"Tangled","Tangled Collection",3,"2010","Animation",8
+"2012-04-25",1519557910,"The Avengers","The Avengers Collection",16,"2012","Science Fiction",1
+"2012-03-12",691210692,"The Hunger Games","The Hunger Games Collection",16,"2012","Science Fiction",9
+"2012-07-16",1084939099,"The Dark Knight Rises","The Dark Knight Collection",1,"2012","Action",3
+"2012-05-23",624026776,"Men in Black 3","Men In Black Collection",1,"2012","Action",10
+"2012-06-06",746921274,"Madagascar 3: Europe's Most Wanted","Madagascar Collection",3,"2012","Animation",8
+"2012-06-27",752215857,"The Amazing Spider-Man","The Amazing Spider-Man Collection",1,"2012","Action",7
+"2012-06-26",877244782,"Ice Age: Continental Drift","Ice Age Collection",3,"2012","Animation",5
+"2012-10-25",1108561013,"Skyfall","James Bond Collection",1,"2012","Action",2
+"2012-11-13",8.29e+08,"The Twilight Saga: Breaking Dawn - Part 2","The Twilight Collection",2,"2012","Adventure",6
+"2012-11-26",1021103568,"The Hobbit: An Unexpected Journey","The Hobbit Collection",2,"2012","Adventure",4
+"2014-11-05",675120017,"Interstellar","",2,"2014","Adventure",10
+"2014-03-20",714766572,"Captain America: The Winter Soldier","Captain America Collection",1,"2014","Action",7
+"2014-04-16",705717432,"The Amazing Spider-Man 2","The Amazing Spider-Man Collection",1,"2014","Action",9
+"2014-05-15",747862775,"X-Men: Days of Future Past","X-Men Collection",1,"2014","Action",6
+"2014-05-28",758539785,"Maleficent","",9,"2014","Fantasy",4
+"2014-06-25",1091405097,"Transformers: Age of Extinction","Transformers Collection",16,"2014","Science Fiction",1
+"2014-06-26",710644566,"Dawn of the Planet of the Apes","Planet of the Apes (Reboot) Collection",16,"2014","Science Fiction",8
+"2014-07-30",773328629,"Guardians of the Galaxy","Guardians of the Galaxy Collection",1,"2014","Action",3
+"2014-11-18",752100229,"The Hunger Games: Mockingjay - Part 1","The Hunger Games Collection",16,"2014","Science Fiction",5
+"2014-12-10",956019788,"The Hobbit: The Battle of the Five Armies","The Hobbit Collection",1,"2014","Action",2
+"2015-07-23",682330139,"Mission: Impossible - Rogue Nation","Mission",1,"2015","Action",8
+"2015-06-09",1513528810,"Jurassic World","Jurassic Park Collection",1,"2015","Action",2
+"2015-12-15",2068223624,"Star Wars: The Force Awakens","Star Wars Collection",1,"2015","Action",1
+"2015-04-22",1405403694,"Avengers: Age of Ultron","The Avengers Collection",1,"2015","Action",4
+"2015-04-01",1506249360,"Furious 7","The Fast and the Furious Collection",1,"2015","Action",3
+"2015-09-30",630161890,"The Martian","",7,"2015","Drama",10
+"2015-06-09",857611174,"Inside Out","",7,"2015","Drama",7
+"2015-11-18",653428261,"The Hunger Games: Mockingjay - Part 2","The Hunger Games Collection",1,"2015","Action",9
+"2015-06-17",1156730962,"Minions","Despicable Me Collection",8,"2015","Family",5
+"2015-10-26",880674609,"Spectre","James Bond Collection",1,"2015","Action",6
+"2016-02-09",783112979,"Deadpool","Deadpool Collection",1,"2016","Action",9
+"2016-04-27",1153304495,"Captain America: Civil War","Captain America Collection",2,"2016","Adventure",1
+"2016-11-16",809342332,"Fantastic Beasts and Where to Find Them","Fantastic Beasts Collection",2,"2016","Adventure",8
+"2016-06-18",875457937,"The Secret Life of Pets","The Secret Life of Pets Collection",3,"2016","Animation",6
+"2016-08-02",745600054,"Suicide Squad","",1,"2016","Action",10
+"2016-03-23",873260194,"Batman v Superman: Dawn of Justice","Man of Steel Collection",1,"2016","Action",7
+"2016-04-07",966550600,"The Jungle Book","",8,"2016","Family",5
+"2016-02-11",1023784195,"Zootopia","",3,"2016","Animation",4
+"2016-06-16",1028570889,"Finding Dory","Finding Nemo Collection",2,"2016","Adventure",3
+"2016-12-14",1056057273,"Rogue One: A Star Wars Story","Star Wars Collection",1,"2016","Action",2
+"2017-05-23",794191988,"Pirates of the Caribbean: Dead Men Tell No Tales","Pirates of the Caribbean Collection",2,"2017","Adventure",6
+"2017-04-19",863416141,"Guardians of the Galaxy Vol. 2","Guardians of the Galaxy Collection",1,"2017","Action",4
+"2017-05-30",820580447,"Wonder Woman","Wonder Woman Collection",1,"2017","Action",5
+"2017-02-28",616801808,"Logan","The Wolverine Collection",1,"2017","Action",7
+"2017-03-08",566652812,"Kong: Skull Island","",1,"2017","Action",9
+"2017-03-16",1262886337,"Beauty and the Beast","",8,"2017","Family",1
+"2017-04-12",1238764765,"The Fate of the Furious","The Fast and the Furious Collection",1,"2017","Action",2
+"2017-06-15",1020063384,"Despicable Me 3","Despicable Me Collection",1,"2017","Action",3
+"2017-07-19",519876949,"Dunkirk","",1,"2017","Action",10
+"2017-06-21",604942143,"Transformers: The Last Knight","Transformers Collection",1,"2017","Action",8
+"1918-08-01",8e+06,"Mickey","",4,"1918","Comedy",1

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<meta charset='utf-8'>
+<meta property="og:title" content="Top 10 Movies Each Year by Revenue -- Essay">
+
+<html>
+  <title>Top 10 Movies Each Year by Revenue -- Essay</title>
+  <h1>Top 10 Movies Each Year by Revenue -- Essay</h1>
+  <body>
+
+<p>This visualization uses a dataset is derived from IMDB.com data.  I have extracted the top 10 films from each year by revenue and labeled each with its genre.  Because IMDB labels films with multiple genres, I have used the first one listed for each film as the primary genre.  The inconsistency of the IMDB data leads to some conflicting results, but it is adequate for the technical purpose of learning d3.</p>
+
+<p>This visualization follows the “martini glass” model, where the author presents the data and provides context and questions.  The author then controls the presentation up to a point, after which the user is given the ability to explore the data on their own.</p>
+
+<p>In the introductory scene, there is a full overview of all the available data in the dataset.  This is like the “view down the road” discussed in the lecture.  We introduce the user to the way the data will be presented, as a scatter plot showing a point for each film on axes of release date and box office revenue.  The text at the top explains the data and that we will be looking at what types of films have been popular throughout the time period, and it also mentions that tooltips are available.  A pair of buttons indicates that the user will be able to navigate through pages.</p>
+
+<p>For the next scenes, we keep the data and view stable while highlighting different genres of films which have become more or less popular.</p>
+
+<p>In the final scene, we open the data set for full exploration by the user.  We’ve told the story we set out to tell in the previous scenes, and now we’re allowing the user to engage more fully and develop their own insights.  The user is given a selector to highlight the types of films they want to look at.</p>
+
+<p>Here is how I tried to meet the grading criteria for this project:</p>
+
+<p>1) Does the narrative visualization correctly follow the hybrid structure as stated by the essay?
+Yes, I believe I have followed the “martini glass” model by guiding the user through the first few scenes and then allowing them to control what they would like to see.</p>
+
+<p>2) Does the narrative visualization effectively utilize scenes?
+I have made an effort to set the scene in the opening and then smoothly transition through each scene by fading out previous images and highlighting the current page’s films. I think this avoids the “jarring” effect caused by some transitions. The text at the top of the page also helps the user understand what each scene is trying to show.</p>
+
+<p>3) Does the narrative visualization effectively utilize annotations?
+The messages at the top of the screen guide the users through the main point of each scene, while the tooltips enable them to see the details of any given film.  I did have some difficulties in this area though – I couldn’t find a way to disable tooltips for the non-highlighted marks, so it is tough to mouseover the desired entry.  I considered using a log scale to spread out the data points more, to eliminate the compression caused by a few very high grossing movies, but that makes it harder to visually grasp how far above the others those films are.  I also really wanted to include a Legend but got hung up on those other details and ran out of time.</p>
+
+<p>4) Does the narrative visualization effectively utilize parameters?
+The main parameter here is the selected genre, which is used to highlight a given genre of films to see its popularity over time.  This is set during page navigation of the author-controlled scenes, and later the user is allowed to set that through the selector.</p>
+
+<p>5) Does the narrative visualization effectively utilize triggers?
+Updates to the parameter are triggered explicitly by the user in the final scene, but the page navigation buttons are also triggering events.</p>
+
+<p>This was definitely a challenging assignment and a good introduction to web development.  I know there are many aesthetic flaws in my product, but I believe most of the key functionality is there.  I look forward to reviewing the work of my more talented and experienced colleagues.
+  </body>
+</html>
+
+
