@@ -20,9 +20,18 @@ var text5 = "Now it's your turn.  Highlight a type of movie and see if it has be
 
 // screen size variables
 var body = d3.select('body')
-var margin = { top: 50, right: 50, bottom: 50, left: 100 }
+var margin = { top: 50, right: 160, bottom: 50, left: 100 }
 var h = 500 - margin.top - margin.bottom
-var w = 1100 - margin.left - margin.right
+var w = 1200 - margin.left - margin.right
+
+// legend variables
+var legendRectSize = 18;                                  
+var legendSpacing = 4;                                   
+var legend_genre_names = [ "Action", "Adventure","Animation",
+"Comedy", "Crime", "Documentary", "Drama", "Family",
+"Fantasy", "Foreign", "History", "Horror", "Music", "Mystery",
+"Romance", "Science Fiction", "Thriller", "TV Movie", "War", "Western"]
+
 
 // SVG
 var svg = body.append('svg')
@@ -32,7 +41,7 @@ var svg = body.append('svg')
 	    .attr('transform','translate(' + margin.left + ',' + margin.top + ')')
 
 //colors
-var colorScale = d3.scale.category20()
+var colorScale = d3.scale.category20() 
 
 
 //Axes
@@ -123,11 +132,6 @@ d3.csv('top10.csv', function (data) {
 	  .orient('left')
 
 
-
-
-
-
-
   // Circles
   var circles = svg.selectAll('circle')
       .data(data)
@@ -184,12 +188,26 @@ d3.csv('top10.csv', function (data) {
       .attr('dy','.71em')
       .style('text-anchor','end')
       .text('Revenue')
-	  
-  legend = svg.append("g")
-    .attr("class","legend")
-    .attr("transform","translate(50,30)")
-    .style("font-size","12px")
-    .call(d3.legend)
+
+  var legend = svg.selectAll(".legend")
+        .data(legend_genre_names)
+    .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  legend.append("rect")
+      .attr("x", w + 10)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", function(d, i) { return colorScale(i + 1) ; });
+
+  legend.append("text")
+      .attr("x", w + 33)
+      .attr("y", 9)
+      .attr("dy", ".35em")
+      .style("text-anchor", "start")
+      .text(function(d) { return d; });
+
 
   function HighlightGenre() {
     console.log("in HighlightGenre")
