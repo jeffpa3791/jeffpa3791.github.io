@@ -16,7 +16,7 @@ var text1 = "Let's take a look at the Top 10 Movies from each year, by Revenue a
 var text2 = "Back in previous years, Dramas were very popular but have since lost the lead spot."
 var text3 = "Action movies have become more popular as special effects become more exciting."
 var text4 = "Interestingly, Animation was very popular early on, and has made a comeback in recent years."
-var text5 = "Now it's your turn.  Highlight a type of movie and see if it has become more or less popular.  I hope you find your favorite!"
+var text5 = "Now it's your turn.  Click a type of movie in the Legend and see if it has become more or less popular.  I hope you find your favorite!"
 
 // screen size variables
 var body = d3.select('body')
@@ -276,6 +276,8 @@ function clickedPrevPage() {
       pageno = '4';
       selectedGenre = 'Animation';
       document.getElementById("p1").innerHTML = text4;
+      d3.selectAll(".legend")
+            .style("opacity", 1);
     } 
     console.log("selectedGenre = ", selectedGenre);
     svg.call(HighlightGenre) ;
