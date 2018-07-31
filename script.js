@@ -60,51 +60,7 @@ d3.csv('top10.csv', function (data) {
 
   var body = d3.select('body')
 
-  var selectData = [ 
-{ "text" : "Action" },
-{ "text" : "Adventure" },
-{ "text" : "Animation" },
-{ "text" : "Comedy" },
-{ "text" : "Crime" },
-{ "text" : "Documentary" },
-{ "text" : "Drama" },
-{ "text" : "Family" },
-{ "text" : "Fantasy" },
-{ "text" : "Foreign" },
-{ "text" : "History" },
-{ "text" : "Horror" },
-{ "text" : "Music" },
-{ "text" : "Mystery" },
-{ "text" : "Romance" },
-{ "text" : "Science Fiction" },
-{ "text" : "Thriller" },
-{ "text" : "TV Movie" },
-{ "text" : "War" },
-{ "text" : "Western" },
-]
-
-  // Select group to display
-  var span = body.append('span')
-    .attr('id','GenreSelectText')
-    .text('Select a type of movie: ')
-  var GenreSelector = body.append('select')
-      .attr('id','GenreSelect')
-      .on('change',GenreChange)
-    .selectAll('option')
-      .data(selectData)
-      .enter()
-    .append('option')
-      .attr('value', function (d) { return d.text })
-      .text(function (d) { return d.text ;})
-  body.append('br')
-
-
   document.getElementById("p1").innerHTML = text1;
-  
-  document.getElementById("GenreSelectText").style.visibility = "hidden";
-  document.getElementById("GenreSelect").style.visibility = "hidden"; 
- 
-
 
   // Scales
   x.domain(d3.extent(data, function(d) { return d.release_date; }))
@@ -208,6 +164,38 @@ d3.csv('top10.csv', function (data) {
       .style("text-anchor", "start")
       .text(function(d) { return d; });
 
+    legend.on("click", function(genre) {
+        // dim all of the icons in legend
+        d3.selectAll(".legend")
+            .style("opacity", 0.35);
+        // make the one selected be un-dimmed
+        d3.select(this)
+          .style("opacity", 1);
+        selectedGenre = genre;
+        HighlightGenre();
+ //       // select all dots and apply 0 opacity (hide)
+ //       d3.selectAll(".dot")
+ //       // .transition()
+ //       // .duration(500)
+ //       .style("opacity", 0.0)
+ //       // filter out the ones we want to show and apply properties
+ //       .filter(function(d) {
+ //           return d["first_careunit"] == type;
+ //       })
+ //           .style("opacity", 1) // need this line to unhide dots
+ //       .style("stroke", "black")
+ //       // apply stroke rule
+ //       .style("fill", function(d) {
+ //           if (d.hospital_expire_flag == 1) {
+ //               return this
+ //           } else {
+ //               return "white"
+ //           };
+ //       });
+    });
+
+
+
 
   function HighlightGenre() {
     console.log("in HighlightGenre")
@@ -234,15 +222,6 @@ d3.csv('top10.csv', function (data) {
 
     console.log("done in HighlightGenre")
   }
-
-  function GenreChange() {
-    selectedGenre = this.value // get the new x value
-    console.log("in GenreChange")
-    console.log("selectedGroup = ", selectedGenre)
-    HighlightGenre()
-    console.log("done in GenreChange")
-  }
-
 
   function TimeframeChange() {
     console.log("in TimeframeChange")
@@ -273,23 +252,6 @@ d3.csv('top10.csv', function (data) {
     console.log("done in TimeframeChange")
   }
 
-//    function updateXAxis() {
-//    console.log("in updateXAxis")
-//            //Scale the range of the data again
-//            x.domain([
-//               new Date("01-01-1985"),
-//               new Date("01-01-1990")
-//            ]);
-//
-//            var svg = d3.select("body").transition();
-//
-//            svg.select(".x.axis") //change the x axis
-//                    .duration(750)
-//                    .call(xAxis)
-//    console.log("done in updateXAxis")
-//  }
-
-
 })
 
 // navigation
@@ -310,14 +272,10 @@ function clickedPrevPage() {
       pageno = '3';
       selectedGenre = 'Action'
       document.getElementById("p1").innerHTML = text3;
-      document.getElementById("GenreSelectText").style.visibility = "hidden";
-      document.getElementById("GenreSelect").style.visibility = "hidden";
     } else if (pageno == '5') {
       pageno = '4';
       selectedGenre = 'Animation';
       document.getElementById("p1").innerHTML = text4;
-      document.getElementById("GenreSelectText").style.visibility = "hidden";
-      document.getElementById("GenreSelect").style.visibility = "hidden";
     } 
     console.log("selectedGenre = ", selectedGenre);
     svg.call(HighlightGenre) ;
@@ -343,8 +301,6 @@ function clickedNextPage() {
       pageno = '5';
       selectedGenre = 'All';
       document.getElementById("p1").innerHTML = text5;
-      document.getElementById("GenreSelectText").style.visibility = "visible";
-      document.getElementById("GenreSelect").style.visibility = "visible";
     } 
     console.log("selectedGenre = ", selectedGenre);
     svg.call(HighlightGenre) ;
