@@ -13,8 +13,8 @@ var selectedEndYear = '1979'
 
 // text to display 
 var text1 = "Let's take a look at the Top 10 Movies from each year, by Revenue as reported by IMDB.com.  You can hover over any movie to see a ToolTip.\nWhat kind of movies have been most popular over time?"
-var text2 = "Back in previous years, Dramas were very popular but have since lost the lead spot."
-var text3 = "Action movies have become more popular as special effects become more exciting."
+var text2 = "In the early years of moviemaking, Dramas were very popular but have since lost the lead spot."
+var text3 = "Advances in special effects have helped Action movies become more popular."
 var text4 = "Interestingly, Animation was very popular early on, and has made a comeback in recent years."
 var text5 = "Now it's your turn.  Click a type of movie in the Legend and see if it has become more or less popular.  I hope you find your favorite!"
 
